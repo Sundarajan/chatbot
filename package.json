@@ -6,10 +6,9 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Sunil Syal",
+  "author": "Sundar",
   "dependencies": {
-    "body-parser": "^1.15.0",
     "express": "^4.13.4",
-    "openode": "^1.9.8"
+    "morgan": "^1.7.0",
   }
 }
